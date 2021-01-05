@@ -1,5 +1,7 @@
 # Vacunación por Comunidad autonoma
 
+# Datos actualizados por el gobierno en https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/vacunaCovid19.htm
+
 
 | Comunidad / ciudad autonoma | Vacunados  | Dosis recibidas | % Usadas |     Población  | % Vacunados | Fecha de actualización | Fuente     |
 |:----------------------------|:----------:|:---------------:|:--------:|---------------:|:-----------:|:----------------------:|:-----------|
